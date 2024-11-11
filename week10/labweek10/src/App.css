@@ -11,11 +11,10 @@ body {
   width: 850px;
   text-align: center;
   margin: auto;
-  box-shadow: 0 0 20px rgba(111, 9, 9, 0.2);
+  box-shadow: 0 0 20px rgba(36, 19, 129, 0.2);
 }
 
 label {
-  font-size: 15px;
   display: block;
   width: 100%;
   margin-top: 8px;
